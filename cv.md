@@ -2,7 +2,7 @@
 
 ![cv](https://cloud.githubusercontent.com/assets/13649199/10877471/93ea86b8-8157-11e5-9bfa-95e3fba75c58.jpg)
 
--  <a href="http://habrahabr.ru/company/ua-hosting/blog/272617/">Научиться программировать сложнее, чем кажется</a>
+-  <a href="http://habrahabr.ua/company/ua-hosting/blog/272617/">Научиться программировать сложнее, чем кажется</a>
 - [Собеседование. Разработка ПО. Вопросы.](https://drive.google.com/open?id=0B9Ye2auQ_NsFQVc2WUdCR0xvLWM)
 - [Набор ссылок для тренировки и прохождения интервью](https://github.com/andreis/interview)
 
@@ -10,14 +10,14 @@
 -  [VisualCV: create resume in minutes](https://www.visualcv.com/)
 -  <a href="http://resumup.com/">Выбрать шаблон для резюме</a>
 -  [GitHub Pages](https://pages.github.com/), <a href="https://github.com/jglovier/resume-template">Resume template</a>
--  <a href="http://lifehacker.ru/2015/04/07/33-lajfhaka-dlya-rezyume/">Как продать свое резюме в 2 раза дороже</a>
--  <a href="http://enjoy-job.ru/trudoustroistvo/kak-pravilno-sostavit-rezume/">Как правильно составить резюме</a>
--  <a href="http://habrahabr.ru/post/184332/">Резюме программистов. Часть 1 (плохие)</a>
--  <a href="http://habrahabr.ru/post/184372/">Резюме программистов. Часть 2 (хорошие)</a>
--  <a href="http://skyeng.ru/articles/sostavte-rezyume-na-anglijskom-450-primerov">Как составить резюме на английском</a>
+-  <a href="http://lifehacker.ua/2015/04/07/33-lajfhaka-dlya-rezyume/">Как продать свое резюме в 2 раза дороже</a>
+-  <a href="http://enjoy-job.ua/trudoustroistvo/kak-pravilno-sostavit-rezume/">Как правильно составить резюме</a>
+-  <a href="http://habrahabr.ua/post/184332/">Резюме программистов. Часть 1 (плохие)</a>
+-  <a href="http://habrahabr.ua/post/184372/">Резюме программистов. Часть 2 (хорошие)</a>
+-  <a href="http://skyeng.ua/articles/sostavte-rezyume-na-anglijskom-450-primerov">Как составить резюме на английском</a>
 -  <a href="http://blog.olegdubas.com/2013/03/17/resume/">ОФОРМЛЕНИЕ IT-РЕЗЮМЕ для USA</a>
 
-### <a href="http://javaops.ru/story.html">Наши истории (делимся опытом и успехом)</a>
+### <a href="http://javaops.ua/story.html">Наши истории (делимся опытом и успехом)</a>
 
 ### Тесты/задачи онлайн:
 - [Java Programming Test](https://tests4geeks.com/java)
@@ -39,19 +39,19 @@
 - <a href="https://www.youtube.com/watch?v=hry2CNuOxBg">Михаил Портнов. Собеседование на работу: жизненный путь</a>
 - <a href="https://www.youtube.com/playlist?list=PL7XXjge0nKZczMtQbNk9c2cplvuLZomTh">Канал: Резюме, поиск работы, интервью</a>
 -  <a href="https://www.youtube.com/watch?v=ft0Nj8Cm9kk">Яков Файн: Как стать профессиональным Java разработчиком</a>
--  <a href="https://jsehelper.blogspot.ru/p/blog-page.html">Ответы на вопросы на собеседовании Junior Java Developer</a>
--  <a href="http://javastudy.ru/interview/list-of-question-java-interview/">Список вопросов с ответами для собеседования по Java</a>
+-  <a href="https://jsehelper.blogspot.ua/p/blog-page.html">Ответы на вопросы на собеседовании Junior Java Developer</a>
+-  <a href="http://javastudy.ua/interview/list-of-question-java-interview/">Список вопросов с ответами для собеседования по Java</a>
 -  <a href="https://github.com/MaximAbramchuck/awesome-interviews#java">Сборка по вопросам на интервью</a>
--  <a href="http://javastudy.ru/category/interview/">Сборка вопросов-ответов от JavaStudy</a>
+-  <a href="http://javastudy.ua/category/interview/">Сборка вопросов-ответов от JavaStudy</a>
 - [Вопросы по классам коллекциям от JavaRush-1](http://info.javarush.ru/translation/2013/10/08/Часто-задаваемые-на-собеседованиях-вопросы-по-классам-коллекциям-в-Java-Часть-1-.html)
 - [Вопросы по классам коллекциям от JavaRush-2](http://info.javarush.ru/translation/2013/10/08/Часто-задаваемые-на-собеседованиях-вопросы-по-классам-коллекциям-в-Java-Часть-2-.html)
--  <a href="http://habrahabr.ru/post/181033/">Тест на знание SQL</a>
--  <a href="http://jsehelper.blogspot.ru/p/blog-page.html">Вопросы на собеседовании Java Junior Developer</a>
+-  <a href="http://habrahabr.ua/post/181033/">Тест на знание SQL</a>
+-  <a href="http://jsehelper.blogspot.ua/p/blog-page.html">Вопросы на собеседовании Java Junior Developer</a>
 -  <a href="https://play.google.com/store/apps/details?id=com.ab.jiq">Java вопросы с собеседований на Android</a>
 -  <a href="https://drive.google.com/open?id=0B9Ye2auQ_NsFLTRFY293RUVPVms">Сборка вопросов от JavaRush</a>
-> про clone и finalize объязательно прочтите <a href="http://www.ozon.ru/context/detail/id/24828676/">Джошуа Блох: Java. Эффективное программирование (второе издание)</a>
+> про clone и finalize объязательно прочтите <a href="http://www.ozon.ua/context/detail/id/24828676/">Джошуа Блох: Java. Эффективное программирование (второе издание)</a>
 
--  <a href="http://bookvoed.ru/book?id=2593572">Cracking the Coding Interview</a>
+-  <a href="http://bookvoed.ua/book?id=2593572">Cracking the Coding Interview</a>
 > Особенно обратите внимание на раздел: <a href="http://storage.piter.com/upload/contents/978545901120/978545901120_X.pdf">Часть VIII. Вопросы собеседования</a>
 
 
@@ -62,7 +62,7 @@
 -  удобно иметь резюме где то в инете (hh, linkedin, google doc, чтобы им было удобно делиться).
 
 ### Позиционирование <a href="https://github.com/JavaOPs/topjava/blob/master/description.md">проекта Topjava</a>:
-- Обязательно убери из резюме **любое упоминание Junior**. Количество обращений возрастет на порядок. Ссылку на стажировку можно поставить: http://javaops.ru/view/topjava (в linkedin: https://www.linkedin.com/company/java-online-projects).
+- Обязательно убери из резюме **любое упоминание Junior**. Количество обращений возрастет на порядок. Ссылку на стажировку можно поставить: http://javaops.ua/view/topjava (в linkedin: https://www.linkedin.com/company/java-online-projects).
 -  После завершения проекта ты освошь все заявленные в нем технологии - вставь их в квалификацию (включая java 8 Stream and Time API). 
 - В разделе опыт работы (если нет коммерческого опыта) вставь:
 
@@ -85,8 +85,8 @@
 ### После прохождения испытательного срока жду твою [историю успеха](http://javaops.ru/view/story)
 
 ### Основные сайты поиска работы:
-- <a href="https://rabota.yandex.ru/search?job_industry=275&text=java">Яндекс агрегатор</a>
-- <a href="hh.ru">HH</a>
+- <a href="https://rabota.yandex.ua/search?job_industry=275&text=java">Яндекс агрегатор</a>
+- <a href="hh.ua">HH</a>
 - <a href="https://www.linkedin.com/">LinkedIn</a>
 - <a href="http://djinni.co/">djinni.co (более актуально для Украины)</a>
 
